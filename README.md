@@ -1,6 +1,6 @@
 ### Hi there 👋, Aung Myo Htut
 #### Statistics and R Programming
-![Statistics and R Programming](https://www.canva.com/design/DAGCUxFGw44/0xn6z3gruNHpV35JNfpGWw/edit?referrer=banners-landing-page)
+![Statistics and R Programming](https://github.com/aungmyohtut21/aungmyohtut21/blob/main/Banner.png)
 
 I'm Aung Myo Htut, originally from Myanmar and now live in the US. I am also a Master of Public Health graduate from Washington University in St. Louis. I am R and statistics enthusiast and I enjoy learning about other statistical and programming languages like Stata and Python and data visualization with Tableau.
 
