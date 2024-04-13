@@ -12,8 +12,6 @@ Skills: R / Python
 - ⚡ Fun fact: I love working out, cooking, reading and traveling 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aungmyohtut21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aungmyohtut21//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AungMyoHtut21)  
-
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungmyohtut21)](https://github.com/anuraghazra/github-readme-stats)
