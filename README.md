@@ -6,6 +6,7 @@ Originally from Myanmar and now live in the US. I am also a Master of Public Hea
 
 ## Skillls 
 * R Programming
+* MySQL
 * Tableau
 * Stata
 
