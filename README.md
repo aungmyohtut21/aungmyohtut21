@@ -3,6 +3,9 @@
 ## Hi there 👋, I'm Aung Myo Htut
 
 Originally from Myanmar and now live in the US. I am also a Master of Public Health graduate from Washington University in St. Louis. I am R and statistics enthusiast and I enjoy learning about other statistical and programming languages like Stata and Python and data visualization with Tableau.
+- 🌱 I’m currently learning Machine Learning 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I love working out, cooking, reading and traveling 
 
 ## Skillls 
 * R Programming
@@ -10,7 +13,5 @@ Originally from Myanmar and now live in the US. I am also a Master of Public Hea
 * Tableau
 * Stata
 
-- 🌱 I’m currently learning Machine Learning 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I love working out, cooking, reading and traveling 
+
 
