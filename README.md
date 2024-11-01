@@ -10,7 +10,7 @@
 ### 🐱 My Github stats
 
 <div align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=aungmyohtut21&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" alt="Aung Myo Htut's github stats" width="350" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aungmyohtut21&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]" alt="github stats" width="350" />
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aungmyohtut21&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&layout=compact&hide_progress=true" alt="Top Langs" width="250" />
 </div>
